@@ -8,6 +8,11 @@
 
 This repository contains the necessary tools to run a Jitsi Meet stack on [Docker](https://www.docker.com) using [Docker Compose](https://docs.docker.com/compose/).
 
+This is a fork of https://github.com/jitsi/docker-jitsi-meet project with some extra configuration parameters:
+
+You can set resolution with JIBRI_FFMPEG_RESOLUTION and set extra parameters for Chrome. Check jibri/rootfs/defaults/jibri.conf file for all options.
+
+
 ## Installation
 
 The installation manual is available [here](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-docker).
