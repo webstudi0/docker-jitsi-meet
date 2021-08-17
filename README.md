@@ -12,6 +12,9 @@ This is a fork of https://github.com/jitsi/docker-jitsi-meet project with some e
 
 You can set resolution with JIBRI_FFMPEG_RESOLUTION and set extra parameters for Chrome. Check jibri/rootfs/defaults/jibri.conf file for all options.
 
+Jibri docker container is available:
+
+docker pull webstudi0/jibri:latest
 
 ## Installation
 
