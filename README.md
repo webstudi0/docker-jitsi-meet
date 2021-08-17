@@ -14,7 +14,7 @@ You can set resolution with JIBRI_FFMPEG_RESOLUTION and set extra parameters for
 
 Jibri docker container is available:
 
-docker pull webstudi0/jibri:latest
+`docker pull webstudi0/jibri:latest`
 
 ## Installation
 
